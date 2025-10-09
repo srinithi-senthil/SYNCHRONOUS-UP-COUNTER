@@ -54,6 +54,7 @@ endmodule
 
 Developed by:S.Srinithi
 RegisterNumber:25018743
+date:04/10/25
 */
 
 **RTL LOGIC UP COUNTER**
